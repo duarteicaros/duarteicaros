@@ -3,8 +3,8 @@
 <center>
 <table>
   <tr>
-      <td><img width="410px" align="left"  margin-rigth="10px" src="https://github-readme-stats.vercel.app/api?username=duarteicaros&show_icons=truea&layout=compact&theme=tokyonight" /></td>
-      <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarteicaros&layout=compact&theme=tokyonight" /></td>
+      <td><img width="400px" align="left"  margin="10px" src="https://github-readme-stats.vercel.app/api?username=duarteicaros&show_icons=truea&layout=compact&theme=tokyonight" /></td>
+      <td><img width="400px" align="left" margin="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarteicaros&layout=compact&theme=tokyonight" /></td>
   </tr>   
 </table>
 </center>
