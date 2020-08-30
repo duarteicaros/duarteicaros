@@ -18,4 +18,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:icaroduartec@gmail.com)
 
 
-- Obrigado por me visitar!
+### - Obrigado por me visitar!
