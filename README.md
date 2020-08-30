@@ -1,6 +1,6 @@
 # Seja bem vindo(a)!   
 
-<img width="410"  align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarteicaros&hide=html&layout=compact&theme=tokyonight">
+<img width="410"  align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarteicaros&hide=html&layout=compact&theme=radical">
 
 #### Tecnologias Utilizadas!
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
