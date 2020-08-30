@@ -2,7 +2,7 @@
 
 # Seja bem vindo(a)!   
 
-<img width="400" height="400" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarteicaros&hide=html&layout=compact&theme=default">
+<img width="200"  align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarteicaros&hide=html&layout=compact&theme=default">
 
 ## Tecnologias utilizadas!!
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
