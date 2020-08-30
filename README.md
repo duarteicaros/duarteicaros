@@ -1,10 +1,12 @@
 # Seja bem vindo(a)!   
 
+Aqui você irá encontrar alguns projetos simples que estudo ou me arrisco, fique a vontade para me dar dicas e implementar meus códigos!
+
 <center>
 <table>
   <tr>
-      <td><img width="440px"  align="center"  margin-bottom="80px" src="https://github-readme-stats.vercel.app/api?username=duarteicaros&show_icons=truea&layout=compact&theme=tokyonight" /></td>
-      <td><img width="360px" align="center" margin"10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarteicaros&layout=compact&theme=tokyonight" /></td>
+      <td><img width="440px"  align="center" src="https://github-readme-stats.vercel.app/api?username=duarteicaros&show_icons=truea&layout=compact&theme=tokyonight" /></td>
+      <td><img width="360px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarteicaros&layout=compact&theme=tokyonight" /></td>
   </tr>   
 </table>
 </center>
