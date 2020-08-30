@@ -1,6 +1,13 @@
 # Seja bem vindo(a)!   
 
-<img width="410"  align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarteicaros&hide=html&layout=compact&theme=radical">
+<center>
+<table>
+  <tr>
+      <td><img width="410px" align="left"  margin-rigth="10px" src="https://github-readme-stats.vercel.app/api?username=duarteicaros&show_icons=truea&layout=compact&theme=tokyonight" /></td>
+      <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarteicaros&layout=compact&theme=tokyonight" /></td>
+  </tr>   
+</table>
+</center>
 
 #### Tecnologias Utilizadas!
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
