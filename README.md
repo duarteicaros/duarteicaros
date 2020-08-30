@@ -7,9 +7,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/icaro-duarte/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:icaroduartec@gmail.com)
 
-<img width="410"  align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarteicaros&hide=html&layout=compact&theme=default">
 
-### Tecnologias utilizadas!!
+<center>
+  <table>
+    <tr>
+        <td><img width="410"  align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarteicaros&hide=html&layout=compact&theme=default"> /></td>
+        <td><### Tecnologias utilizadas!!
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -19,7 +22,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)/></td>
+    </tr>   
+  </table>
+</center>
+
+
+
 
 
 
