@@ -1,5 +1,3 @@
-
-
 # Seja bem vindo(a)!   
 
 ## Entre em contato comigo 
@@ -8,10 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:icaroduartec@gmail.com)
 
 
-<center>
-  <table>
-    <tr>
-        <td><img width="410"  align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarteicaros&hide=html&layout=compact&theme=default"> /></td>
+<img width="410"  align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarteicaros&hide=html&layout=compact&theme=default">
+
+
 ###Tecnologias Utilizadas
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,16 +20,6 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-    </tr>   
-  </table>
-</center>
-
-
-
-
-
 
 
 ### - Obrigado por me visitar!
-
-
